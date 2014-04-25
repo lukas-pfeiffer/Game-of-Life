@@ -1,0 +1,15 @@
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\bin\Debug\HraZivota.XML
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\bin\Debug\HraZivota.exe
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\bin\Debug\HraZivota.pdb
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\MainWindow.baml
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\Napoveda.baml
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\Napoveda.g.cs
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\App.g.cs
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\HraZivota_MarkupCompile.cache
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\HraZivota.g.resources
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\HraZivota.Properties.Resources.resources
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\HraZivota.csproj.GenerateResource.Cache
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\HraZivota.exe
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\HraZivota.pdb
+C:\Users\Lukasinho\Documents\Visual Studio 2010\Projects\HraZivota\HraZivota\obj\x86\Debug\HraZivota.csprojResolveAssemblyReference.cache

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HraZivota</name>
+    </assembly>
+    <members>
+        <member name="T:HraZivota.App">
+            <summary>
+            Interakční logika pro App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:HraZivota.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:HraZivota.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:HraZivota.MainWindow">
+            <summary>
+            Interakční logika pro MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:HraZivota.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:HraZivota.Napoveda">
+            <summary>
+            Interaction logic for Napoveda.xaml
+            </summary>
+            <summary>
+            Napoveda
+            </summary>
+        </member>
+        <member name="M:HraZivota.Napoveda.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:HraZivota.Properties.Resources">
+            <summary>
+              Třída prostředků se silnými typy, pro hledání lokalizovaných řetězců, atd.
+            </summary>
+        </member>
+        <member name="P:HraZivota.Properties.Resources.ResourceManager">
+            <summary>
+              Vrací instanci ResourceManager uloženou v mezipaměti použitou touto třídou.
+            </summary>
+        </member>
+        <member name="P:HraZivota.Properties.Resources.Culture">
+            <summary>
+              Potlačí vlastnost CurrentUICulture aktuálního podprocesu pro všechna
+              vyhledání prostředků pomocí této třídy prostředků se silnými typy.
+            </summary>
+        </member>
+    </members>
+</doc>

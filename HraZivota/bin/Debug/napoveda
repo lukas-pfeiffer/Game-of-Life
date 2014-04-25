@@ -1,0 +1,21 @@
+Nápovìda - Hra života
+--------------------------------------------------
+
+Start - spustí aplikaci, Stop - zastaví aplikaci, Krokování - krokování aplikace.
+Okamžitý vypoèet - aplikace okamžitì spoèítá, jak bude tvar vypadat v urèitém poètu kroku, která je nutno zadat do pole
+Maximální poèet krokù, také je nutné, aby byla zapnutá funkce Kontrola stability, která se stará o to, že když se již tvar nebude
+mìnit (maximálnì 2 stavový oscilator), tak se výpoèet zastaví, tato funkce pracuje i bez okamžitého výpoètu.
+Dále je možné si daný tvar uložit do souboru txt, kterého je možné potom tvar znovu naèíst, tak je možné uložit do formátu jpg. 
+Název tìchto souboru je možné uvést do pole Název pro uložení. V pøípadì, že tak neuèiníte, automaticky se zvolí název z èísel 
+podle Time.Ticks.
+Poté je možné vymazat pracovní plochu a vynulovat poèet krokù.
+Rychlost výpoètu je možnì upravovat v intevalu <0, 300>.
+Dále lze vybrat ze seznamu v prvním jsou uložené tvary naèítány se souboru. Druhý seznam obsahuje pevnì definované tvary.
+Barvy - je možné si vybrat barevné kombinace.
+
+V Druhé èásti okna jsou pravidla, jak základní nadefinované Conway, !Conway, Osci-Pento, Maze, dále náhodné a vlastní.
+Všechny pravidla je možné zapínat èi vypínat, mìnit i prùbìhu výpoètu.
+Aplikace se ukonèuje tlaèítkem Konec
+
+Aplikaci vytvoøil: Bc. Lukáš Pfeiffer
+E-mail: Pfeiffer.l@seznam.cz
